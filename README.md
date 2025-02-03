@@ -24,7 +24,7 @@ Project Documentation
 All detailed steps and screenshots are included in the Word document (VPC-Peering-Project.docx).
 
 Technologies Used
-AWS VPC Peering
-Route Tables
-Security Groups
-ICMP Traffic Testing
+AWS VPC Peering,
+Route Tables,
+Security Groups,
+ICMP Traffic Testing.
